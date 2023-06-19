@@ -1,0 +1,6 @@
+.listContainer {
+    list-style-type: upper-roman;
+}
+.listContainer li{
+    padding-left: 2.4rem;
+}
